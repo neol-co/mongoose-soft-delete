@@ -33,7 +33,7 @@
   "homepage": "https://github.com/nour-karoui/mongoose-soft-delete",
   "license": "MIT",
   "peerDependencies": {
-    "mongoose": "^6.6.1"
+    "mongoose": "^6.6.1 || ^7.0.0"
   },
   "devDependencies": {
     "@types/mongoose": "^5.10.5",
